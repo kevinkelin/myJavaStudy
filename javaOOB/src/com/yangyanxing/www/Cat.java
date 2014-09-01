@@ -3,6 +3,7 @@ package com.yangyanxing.www;
 public class Cat extends Animal {
 	public void run(){
 		System.out.println("我是一只猫在跑");
+        System.out.println("猫很萌");
 	}
 	public void eat(){
 		System.out.println("我是一条猫是吃");
