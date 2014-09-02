@@ -4,8 +4,7 @@ public class Cat extends Animal {
 	public void run(){
 		System.out.println("我是一只猫在跑");
         System.out.println("猫很萌");
-		System.out.println("猫很萌,爱吃鱼");
-		System.out.println("猫很萌,会抓老鼠");
+		System.out.println("猫很萌,爱吃鱼");		
 	}
 	public void eat(){
 		System.out.println("我是一条猫是吃");
